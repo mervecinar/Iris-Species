@@ -3,4 +3,3 @@ This is a app which calculate mean median variance boxplot histogram confide int
 https://www.kaggle.com/uciml/iris
 
 
-https://youtu.be/OXvlu2RTNLM
